@@ -1,7 +1,7 @@
 # E-comm_customer_segmentation_prediction
 The objective of project is to buit a E-commerce customer Segmentation and prediction Machine learning model.
 # Following are Key takeaways:-
-In this project I habe used RFM(Recency,Frequency,Monatery Value) parameters for identifying customer behaviour.
+In this project I have used RFM(Recency,Frequency,Monatery Value) parameters for identifying customer behaviour.
 Clustering algorithm for customer segmentation based ontheir purchasing patterns.
 After Clustering applying Classification Algorithm to predict customer cluster and provide churning Chances and marketing Strategies.
 
